@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_i9305.mk \
-    $(LOCAL_DIR)/disco_i9305.mk
+    $(LOCAL_DIR)/full_i9305.mk
